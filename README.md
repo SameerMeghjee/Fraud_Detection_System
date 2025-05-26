@@ -2,7 +2,7 @@
 This project detects fraudulent transactions using machine learning on the Credit Card Fraud Detection Dataset from Kaggle. The system uses techniques like SMOTE for handling imbalanced data and a Random Forest model for classification. The project includes model evaluation metrics and a command-line testing interface.
 
 # Dataset Source
-Credit Card Fraud Detection Dataset
+Credit Card Fraud Detection Dataset-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # Project Steps
 1. Data Preprocessing
